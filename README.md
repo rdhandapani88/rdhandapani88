@@ -5,8 +5,6 @@
 </div>
 <br>
 
-<img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/MobileCloud.jpg" alt="Test Automation in On premises Mobile Cloud">
-
 <table align="center">
   <tr>
     <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/MobileCloud.jpg" width="300"/></td>
