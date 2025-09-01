@@ -18,7 +18,7 @@
   </tr>
   <tr>
     <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/play.png" width="300"/></td>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/agenticai.png" width="300"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/agenticai.jpg" width="300"/></td>
     <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/copilot.jpg" width="300"/></td>
   </tr>
 </table>
