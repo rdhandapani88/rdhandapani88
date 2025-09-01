@@ -6,11 +6,8 @@
 
 <img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/MobileCloud.jpg" alt="Test Automation in On premises Mobile Cloud">
 
-
-## Hi there 👋
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Chijioke+Okorji!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Dhandapani+Alias+ DP!;" />
 </h1>
 
 ### I am a Lead Software Development Engineer @Test - passionate about building scalable automation frameworks, infrastructure, and tools to solve testing problems and help developers be more productive.
