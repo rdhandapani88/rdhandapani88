@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=rdhandapani88&color=blue&style=flat-square" alt="Profile views" />
 </div>
 
-<img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/software-developer.png" alt="Test Automation in On premises Mobile Cloud">
+<img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/MobileCloud.jpg" alt="Test Automation in On premises Mobile Cloud">
 
 
 ## Hi there 👋
