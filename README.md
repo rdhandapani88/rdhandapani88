@@ -7,18 +7,14 @@
 
 <img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/MobileCloud.jpg" alt="Test Automation in On premises Mobile Cloud">
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/MobileCloud.jpg" width="300"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/img1.png" width="300"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/img2.png" width="300"/></td>
+  </tr>
+</table>
 
-  <img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/MobileCloud.jpg" 
-       alt="Test Automation in On premises Mobile Cloud" width="300"/>
-
-  <img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/img1.png" 
-       alt="Second Image" width="300"/>
-
-  <img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/img2.png" 
-       alt="Third Image" width="300"/>
-
-</div>
 
 
 
