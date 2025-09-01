@@ -1,7 +1,9 @@
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/rdhandapani88/count.svg" alt="Visitor's Count" />
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />
+  <h3>Profile Visitors</h3>
+  <img src="https://profile-counter.glitch.me/rdhandapani88/count.svg" alt="Visitor Count" />
 </div>
+
 
 ## Hi there 👋
 
