@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
   </a>
   <a href="https://huggingface.co/Dhanda88" target="_blank">
-    ![Hugging Face] <img src="https://img.shields.io/badge/HuggingFace-1e1f26?style=for-the-badge&logo=huggingface&logoColor=yellow" target="_blank" />
+    <img src="https://img.shields.io/badge/HuggingFace-1e1f26?style=for-the-badge&logo=huggingface&logoColor=yellow" target="_blank" />
  </a>
 </div>
 
