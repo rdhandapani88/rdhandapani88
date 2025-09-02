@@ -83,6 +83,8 @@
 
 </div>
 
+<hr>
+
 <div>
 
 ## ⚡️ Stats
