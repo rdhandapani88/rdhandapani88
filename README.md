@@ -7,6 +7,14 @@
 
 <img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/developer.png" alt="Banner of a developer sitting in front of a desk">
 
+<br>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Dhandapani+!;" />
+</h1>
+
+### I am a Lead Software Development Engineer @Test - passionate about building scalable automation frameworks, infrastructure, and tools to solve testing problems and help developers be more productive.
+### I have automated Web, Mobile, OTT and Distributed Backend systems throughout my career across different domains.
+
 <div align="center">
 
 <table>
@@ -48,13 +56,3 @@
 </table>
 
 </div>
-
-
-
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Dhandapani+!;" />
-</h1>
-
-### I am a Lead Software Development Engineer @Test - passionate about building scalable automation frameworks, infrastructure, and tools to solve testing problems and help developers be more productive.
-### I have automated Web, Mobile, OTT and Distributed Backend systems throughout my career across different domains.
