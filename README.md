@@ -35,11 +35,11 @@
     <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/Azure.png" width="200"/></td>
   </tr>
     <tr>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/play.png" width="200"/></td>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/agenticai.jpg" width="200"/></td>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/copilot.jpg" width="200"/></td>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/xcui.jpeg" width="200"/></td>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/swift.webp" width="200"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/aws.png" width="200"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/chef-logo.png" width="200"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/jenkins.png" width="200"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/cypress.png" width="200"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/github.png" width="200"/></td>
   </tr>
 </table>
 
