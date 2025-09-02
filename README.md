@@ -5,6 +5,8 @@
 </div>
 <br>
 
+<img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/developer.png" alt="Banner of a developer sitting in front of a desk">
+
 <div align="center">
 
 <table>
