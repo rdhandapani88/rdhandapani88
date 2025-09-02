@@ -7,19 +7,19 @@
 
 <table align="center">
   <tr>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/MobileCloud.jpg" width="300"/></td>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/img1.png" width="300"/></td>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/img2.png" width="300"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/MobileCloud.jpg" width="200"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/img1.png" width="200"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/img2.png" width="200"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/mcp.png" width="300"/></td>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/selenium_logo.webp" width="300"/></td>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/appium.webp" width="300"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/mcp.png" width="200"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/selenium_logo.webp" width="200"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/appium.webp" width="200"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/play.png" width="300"/></td>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/agenticai.jpg" width="300"/></td>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/copilot.jpg" width="300"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/play.png" width="200"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/agenticai.jpg" width="200"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/copilot.jpg" width="200"/></td>
   </tr>
 </table>
 
