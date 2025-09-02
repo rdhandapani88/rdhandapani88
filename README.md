@@ -37,6 +37,24 @@
 
 <hr>
 
+<p align="center">
+  <!-- Programming & Frameworks -->
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,nodejs" />
+
+  <!-- Test Frameworks & Tools -->
+  <img src="https://skillicons.dev/icons?i=selenium,cypress,playwright" />
+
+  <!-- API & Mobile Testing -->
+  <img src="https://skillicons.dev/icons?i=postman,appium" />
+
+  <!-- CI/CD & DevOps -->
+  <img src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes,github,gitlab" />
+
+  <!-- Cloud & Monitoring -->
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,grafana" />
+</p>
+
+
 <div align="center">
 
 <table>
