@@ -27,6 +27,20 @@
     <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/xcui.jpeg" width="200"/></td>
     <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/swift.webp" width="200"/></td>
   </tr>
+    <tr>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/grafana.jpeg" width="200"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/kubernates.png" width="200"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/docker_facebook_share.png" width="200"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/gcp.svg" width="200"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/Azure.png" width="200"/></td>
+  </tr>
+    <tr>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/play.png" width="200"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/agenticai.jpg" width="200"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/copilot.jpg" width="200"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/xcui.jpeg" width="200"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/swift.webp" width="200"/></td>
+  </tr>
 </table>
 
 
