@@ -5,43 +5,47 @@
 </div>
 <br>
 
-<table align="center">
+<div align="center">
+
+<table>
   <tr>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/MobileCloud.jpg" width="200"/></td>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/img1.png" width="200"/></td>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/img2.png" width="200"/></td>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/cucumber.jpeg" width="200"/></td>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/serenity.png" width="200"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/mcp.png" width="200"/></td>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/selenium_logo.webp" width="200"/></td>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/appium.webp" width="200"/></td>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/rest.png" width="200"/></td>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/espression.png" width="200"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/MobileCloud.jpg" width="120"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/img1.png" width="120"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/img2.png" width="120"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/cucumber.jpeg" width="120"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/serenity.png" width="120"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/play.png" width="200"/></td>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/agenticai.jpg" width="200"/></td>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/copilot.jpg" width="200"/></td>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/xcui.jpeg" width="200"/></td>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/swift.webp" width="200"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/mcp.png" width="120"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/selenium_logo.webp" width="120"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/appium.webp" width="120"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/rest.png" width="120"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/espression.png" width="120"/></td>
   </tr>
-    <tr>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/grafana.jpeg" width="200"/></td>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/kubernates.png" width="200"/></td>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/docker_facebook_share.png" width="200"/></td>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/gcp.svg" width="200"/></td>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/Azure.png" width="200"/></td>
+  <tr>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/play.png" width="120"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/agenticai.jpg" width="120"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/copilot.jpg" width="120"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/xcui.jpeg" width="120"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/swift.webp" width="120"/></td>
   </tr>
-    <tr>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/aws.png" width="200"/></td>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/chef-logo.png" width="200"/></td>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/jenkins.png" width="200"/></td>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/cypress.png" width="200"/></td>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/github.png" width="200"/></td>
+  <tr>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/grafana.jpeg" width="120"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/kubernates.png" width="120"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/docker_facebook_share.png" width="120"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/gcp.svg" width="120"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/Azure.png" width="120"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/aws.png" width="120"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/chef-logo.png" width="120"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/jenkins.png" width="120"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/cypress.png" width="120"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/github.png" width="120"/></td>
   </tr>
 </table>
+
+</div>
 
 
 
