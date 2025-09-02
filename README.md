@@ -15,6 +15,28 @@
 ### I am a Lead Software Development Engineer @Test - passionate about building scalable automation frameworks, infrastructure, and tools to solve testing problems and help developers be more productive.
 ### I have automated Web, Mobile, OTT and Distributed Backend systems throughout my career across different domains.
 
+- 🌱 I’m currently learning **[Build an MCP server](https://modelcontextprotocol.io/quickstart/server)**
+- 💬 Ask me about **Test Automation, Mobile Testing, OTT Device Testing...or anything [here](https://github.com/rdhandapani88/rdhandapani88/issues)**
+
+<br>
+
+<div align="center">
+  <a href="rdhandapani88@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/dhandapani-r-b6550b119/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://medium.com/@rdhandapani88" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://huggingface.co/Dhanda88" target="_blank">
+    ![Hugging Face] <img src="https://img.shields.io/badge/HuggingFace-1e1f26?style=for-the-badge&logo=huggingface&logoColor=yellow" target="_blank" />
+ </a>
+</div>
+
+<hr>
+
 <div align="center">
 
 <table>
