@@ -16,6 +16,9 @@
 ### I have automated Web, Mobile, OTT and Distributed Backend systems throughout my career across different domains.
 
 - 🌱 I’m currently learning **[Build an MCP server](https://modelcontextprotocol.io/quickstart/server)**
+- 🌱 Leveraging GenAI in to Testing practises
+- 🌱 Working and evaluating AI Agents for future QA tools
+- 🌱 Building up Agentic AI solutions for Quality Engineering and Prompt Engineering
 - 💬 Ask me about **Test Automation, Mobile Testing, OTT Device Testing...or anything [here](https://github.com/rdhandapani88/rdhandapani88/issues)**
 
 <br>
