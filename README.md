@@ -97,6 +97,26 @@
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=rdhandapani88&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Dhandapani's Most Used Languages" />
 </div>
 
+<div align="center">
+
+  <!-- GitHub Overall Stats -->
+  <a href="https://github.com/rdhandapani88">
+    <img width="380" src="https://github-readme-stats.vercel.app/api?username=rdhandapani88&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en&cache_buster=1" alt="Dhandapani's GitHub Stats" />
+  </a>
+
+  <!-- GitHub Streak Stats -->
+  <a href="https://github.com/rdhandapani88">
+    <img width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=rdhandapani88&theme=transparent&count_private=true&border_radius=10&locale=en&cache_buster=1" alt="Dhandapani's GitHub Streak" />
+  </a>
+
+  <!-- Most Used Languages -->
+  <a href="https://github.com/rdhandapani88?tab=repositories">
+    <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdhandapani88&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en&cache_buster=1" alt="Dhandapani's Top Languages" />
+  </a>
+
+</div>
+
+
 <hr>
 
 </div>
