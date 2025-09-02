@@ -37,6 +37,10 @@
 
 <hr>
 
+## 🛠️ Languages and Tools
+
+<br>
+
 <p align="center">
   <!-- Programming & Frameworks -->
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,nodejs" />
