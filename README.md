@@ -40,23 +40,31 @@
 ## 🛠️ Worked in below... and Still learning few...
 
 <br>
+<style>
+  .tech-icon {
+    transition: transform 0.3s ease;
+  }
+  .tech-icon:hover {
+    transform: scale(1.5);
+  }
+</style>
 
 <div align="center">
 
 <table>
   <tr>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/MobileCloud.jpg" width="120"/></td>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/img1.png" width="120"/></td>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/img2.png" width="120"/></td>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/cucumber.jpeg" width="120"/></td>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/serenity.png" width="120"/></td>
+    <td><img class="tech-icon" src="https://github.com/rdhandapani88/rdhandapani88/blob/main/MobileCloud.jpg" width="120"/></td>
+    <td><img class="tech-icon" src="https://github.com/rdhandapani88/rdhandapani88/blob/main/img1.png" width="120"/></td>
+    <td><img class="tech-icon" src="https://github.com/rdhandapani88/rdhandapani88/blob/main/img2.png" width="120"/></td>
+    <td><img class="tech-icon" src="https://github.com/rdhandapani88/rdhandapani88/blob/main/cucumber.jpeg" width="120"/></td>
+    <td><img class="tech-icon" src="https://github.com/rdhandapani88/rdhandapani88/blob/main/serenity.png" width="120"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/mcp.png" width="120"/></td>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/selenium_logo.webp" width="120"/></td>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/appium.webp" width="120"/></td>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/rest.png" width="120"/></td>
-    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/espression.png" width="120"/></td>
+    <td><img class="tech-icon" src="https://github.com/rdhandapani88/rdhandapani88/blob/main/mcp.png" width="120"/></td>
+    <td><img class="tech-icon" src="https://github.com/rdhandapani88/rdhandapani88/blob/main/selenium_logo.webp" width="120"/></td>
+    <td><img class="tech-icon" src="https://github.com/rdhandapani88/rdhandapani88/blob/main/appium.webp" width="120"/></td>
+    <td><img class="tech-icon" src="https://github.com/rdhandapani88/rdhandapani88/blob/main/rest.png" width="120"/></td>
+    <td><img class="tech-icon" src="https://github.com/rdhandapani88/rdhandapani88/blob/main/espression.png" width="120"/></td>
   </tr>
   <tr>
     <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/play.png" width="120"/></td>
