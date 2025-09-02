@@ -10,16 +10,22 @@
     <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/MobileCloud.jpg" width="200"/></td>
     <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/img1.png" width="200"/></td>
     <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/img2.png" width="200"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/cucumber.jpeg" width="200"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/serenity.png" width="200"/></td>
   </tr>
   <tr>
     <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/mcp.png" width="200"/></td>
     <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/selenium_logo.webp" width="200"/></td>
     <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/appium.webp" width="200"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/rest.png" width="200"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/espression.png" width="200"/></td>
   </tr>
   <tr>
     <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/play.png" width="200"/></td>
     <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/agenticai.jpg" width="200"/></td>
     <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/copilot.jpg" width="200"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/xcui.jpeg" width="200"/></td>
+    <td><img src="https://github.com/rdhandapani88/rdhandapani88/blob/main/swift.webp" width="200"/></td>
   </tr>
 </table>
 
