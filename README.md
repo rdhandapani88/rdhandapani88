@@ -89,15 +89,11 @@
 
 <div>
 
-<details>
-  <summary>📜 Certifications</summary>
+## 📜 Certifications  
 
-  - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/xxxxxx)  
-  - [Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/yyyyyy)  
-  - [ISTQB Advanced Test Manager](https://www.istqb.org/certifications.html)
-
-</details>
-
+[![Google Cloud](https://img.shields.io/badge/Google-Cloud%20Associate%20Cloud%20Engineer-orange?logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/2f30d759-30bb-4ebe-9087-11a091792356/public_url)  
+[![CKA](https://img.shields.io/badge/Kubernetes-Administrator-blue?logo=kubernetes&logoColor=white)](https://www.credly.com/badges/yyyyyy)  
+[![ISTQB](https://img.shields.io/badge/ISTQB-Test%20Manager-red)](https://www.istqb.org/certifications.html)
 
 </div>
 
