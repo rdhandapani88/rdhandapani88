@@ -85,6 +85,16 @@
 </table>
 
 </div>
+<hr>
+
+<div>
+
+## 📜 Certifications  
+
+[![AWS](https://img.shields.io/badge/AWS-Solutions%20Architect-orange?logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/xxxxxx)  
+[![CKA](https://img.shields.io/badge/Kubernetes-Administrator-blue?logo=kubernetes&logoColor=white)](https://www.credly.com/badges/yyyyyy)  
+[![ISTQB](https://img.shields.io/badge/ISTQB-Test%20Manager-red)](https://www.istqb.org/certifications.html)
+</div>
 
 <hr>
 
