@@ -92,8 +92,8 @@
 ## 📜 Certifications  
 
 [![Google%20Cloud](https://img.shields.io/badge/Google-Cloud%20Associate%20Cloud%20Engineer-orange?logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/2f30d759-30bb-4ebe-9087-11a091792356/public_url)  
-[![Microsoft%20Azure-AI](https://img.shields.io/badge/Microsoft-Azure-AI-blue?logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/dhandapanirajendaran-9687/credentials/f8c9f1b8ef1e018d)  
-[![ISTQB](https://img.shields.io/badge/ISTQB-CTFL%20v4.0-red)](https://atsqa.org/certified-testers/profile/179c9404001142f191df22ca1bedbb28)[![ASTQB](https://img.shields.io/badge/ASTQB-Mobile%20vTester-red)](https://atsqa.org/certified-testers/profile/179c9404001142f191df22ca1bedbb28)
+[![Microsoft%20Azure%20AI](https://img.shields.io/badge/Microsof-blue?logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/dhandapanirajendaran-9687/credentials/f8c9f1b8ef1e018d)  
+[![ISTQB](https://img.shields.io/badge/ISTQB-CTFL%20v4.0-red)](https://atsqa.org/certified-testers/profile/179c9404001142f191df22ca1bedbb28)[![ASTQB](https://img.shields.io/badge/ASTQB-Mobile%20Tester-red)](https://atsqa.org/certified-testers/profile/179c9404001142f191df22ca1bedbb28)
 
 </div>
 
