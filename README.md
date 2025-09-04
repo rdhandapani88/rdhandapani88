@@ -91,9 +91,18 @@
 
 ## 📜 Certifications  
 
-[![AWS](https://img.shields.io/badge/AWS-Solutions%20Architect-orange?logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/xxxxxx)  
-[![CKA](https://img.shields.io/badge/Kubernetes-Administrator-blue?logo=kubernetes&logoColor=white)](https://www.credly.com/badges/yyyyyy)  
-[![ISTQB](https://img.shields.io/badge/ISTQB-Test%20Manager-red)](https://www.istqb.org/certifications.html)
+<p align="center">
+  <a href="https://www.credly.com/badges/xxxxxx">
+    <img src="https://images.credly.com/size/340x340/images/aws-badge.png" width="120" alt="AWS Certification"/>
+  </a>
+  <a href="https://www.credly.com/badges/yyyyyy">
+    <img src="https://images.credly.com/size/340x340/images/cka-badge.png" width="120" alt="Kubernetes CKA"/>
+  </a>
+  <a href="https://www.istqb.org/certifications.html">
+    <img src="https://your-uploaded-cert-image-link" width="120" alt="ISTQB"/>
+  </a>
+</p>
+
 </div>
 
 <hr>
