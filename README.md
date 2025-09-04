@@ -88,12 +88,26 @@
 <hr>
 
 <div>
-
 ## 📜 Certifications  
 
-[![Google%20Cloud](https://img.shields.io/badge/Google-Cloud%20Associate%20Cloud%20Engineer-orange?logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/2f30d759-30bb-4ebe-9087-11a091792356/public_url)  
-[![Microsoft%20Azure%20AI](https://img.shields.io/badge/Microsoft%20Azure%20AI-blue?logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/dhandapanirajendaran-9687/credentials/f8c9f1b8ef1e018d)  
-[![ISTQB](https://img.shields.io/badge/ISTQB-CTFL%20v4.0-red)](https://atsqa.org/certified-testers/profile/179c9404001142f191df22ca1bedbb28)[![ASTQB](https://img.shields.io/badge/ASTQB-Mobile%20Tester-red)](https://atsqa.org/certified-testers/profile/179c9404001142f191df22ca1bedbb28)
+<p align="center">
+  <a href="https://www.credly.com/badges/2f30d759-30bb-4ebe-9087-11a091792356/public_url">
+    <img src="https://img.shields.io/badge/Google%20Cloud-Associate%20Cloud%20Engineer-blue?logo=googlecloud&logoColor=white&style=for-the-badge" alt="Google Cloud ACE"/>
+  </a>
+  
+  <a href="https://learn.microsoft.com/en-us/users/dhandapanirajendaran-9687/credentials/f8c9f1b8ef1e018d">
+    <img src="https://img.shields.io/badge/Microsoft%20Azure-AI%20Fundamentals-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" alt="Microsoft Azure AI"/>
+  </a>
+  
+  <a href="https://atsqa.org/certified-testers/profile/179c9404001142f191df22ca1bedbb28">
+    <img src="https://img.shields.io/badge/ISTQB-CTFL%20v4.0-red?style=for-the-badge" alt="ISTQB CTFL"/>
+  </a>
+  
+  <a href="https://atsqa.org/certified-testers/profile/179c9404001142f191df22ca1bedbb28">
+    <img src="https://img.shields.io/badge/ASTQB-Mobile%20Tester-FF6F00?style=for-the-badge" alt="ASTQB Mobile Tester"/>
+  </a>
+</p>
+
 
 </div>
 
