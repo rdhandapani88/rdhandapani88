@@ -89,19 +89,15 @@
 
 <div>
 
-## 📜 Certifications  
+<details>
+  <summary>📜 Certifications</summary>
 
-<p align="center">
-  <a href="https://www.credly.com/badges/xxxxxx">
-    <img src="https://images.credly.com/size/340x340/images/aws-badge.png" width="120" alt="AWS Certification"/>
-  </a>
-  <a href="https://www.credly.com/badges/yyyyyy">
-    <img src="https://images.credly.com/size/340x340/images/cka-badge.png" width="120" alt="Kubernetes CKA"/>
-  </a>
-  <a href="https://www.istqb.org/certifications.html">
-    <img src="https://your-uploaded-cert-image-link" width="120" alt="ISTQB"/>
-  </a>
-</p>
+  - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/xxxxxx)  
+  - [Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/yyyyyy)  
+  - [ISTQB Advanced Test Manager](https://www.istqb.org/certifications.html)
+
+</details>
+
 
 </div>
 
