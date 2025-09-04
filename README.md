@@ -94,15 +94,16 @@
   <a href="https://www.credly.com/badges/2f30d759-30bb-4ebe-9087-11a091792356/public_url">
     <img src="https://img.shields.io/badge/Google%20Cloud-Associate%20Cloud%20Engineer-blue?logo=googlecloud&logoColor=white&style=for-the-badge" alt="Google Cloud ACE"/>
   </a>
+  <br>
   
   <a href="https://learn.microsoft.com/en-us/users/dhandapanirajendaran-9687/credentials/f8c9f1b8ef1e018d">
     <img src="https://img.shields.io/badge/Microsoft%20Azure-AI%20Fundamentals-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" alt="Microsoft Azure AI"/>
   </a>
-  
+   <br>
   <a href="https://atsqa.org/certified-testers/profile/179c9404001142f191df22ca1bedbb28">
     <img src="https://img.shields.io/badge/ISTQB-CTFL%20v4.0-red?style=for-the-badge" alt="ISTQB CTFL"/>
   </a>
-  
+   <br>
   <a href="https://atsqa.org/certified-testers/profile/179c9404001142f191df22ca1bedbb28">
     <img src="https://img.shields.io/badge/ASTQB-Mobile%20Tester-FF6F00?style=for-the-badge" alt="ASTQB Mobile Tester"/>
   </a>
